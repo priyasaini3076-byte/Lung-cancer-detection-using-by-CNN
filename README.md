@@ -15,14 +15,20 @@ The application allows users to upload a CT scan image and receive a predicted c
  ## PROBLEM STATEMENT
  
 • Detecting lung cancer from CT scan images is a complex and time-consuming task.
+
 • Doctors must manually analyze many medical images.
+
 • Manual diagnosis may lead to human errors.
+
 • Therefore, an automated AI-based detection system is needed to assist doctors.
   ## Objectives
   
 • Detect lung cancer using a CNN model.
+
 • Improve early diagnosis accuracy.
+
 • Reduce manual effort in medical image analysis.
+
 • Provide faster and more reliable detection.
 ## Dataset
 The dataset contains CT scan images categorized into four classes:
