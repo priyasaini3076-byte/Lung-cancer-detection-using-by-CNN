@@ -83,6 +83,24 @@ The CNN model includes the following layers:
 • Training improves the prediction capability of the model.
 
 • TensorFlow/Keras libraries are used for training.
+## Project Structure
+
+lung-cancer-cnn/
+│
+├── notebooks/
+│   └── lung_cancer_training.ipynb
+│
+├── models/
+│   └── lung_cancer_cnn.h5
+│
+├── data/
+│   └── Lung Cancer Detection Dataset
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 ## Results
 After training the CNN model, the following results were achieved:
 
@@ -122,7 +140,12 @@ It helps to:
 • Deploy the system for real hospital applications. 
 ## Auther
 Priya
+
 B.Tech (CSE)
 
 Email:
 priyasaini3076@gmail.com
+
+## License
+
+This project is developed for educational and research purposes.
