@@ -1,4 +1,7 @@
 # Lung Cancer Detection using CNN
+## PPT Link
+
+https://www.canva.com/design/DAHDnYVHy6g/B3KuKcsCtbYdri26o3lzMQ/edit?utm_content=DAHDnYVHy6g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Name:** Priya  
 
