@@ -84,22 +84,32 @@ The CNN model includes the following layers:
 
 • TensorFlow/Keras libraries are used for training.
 ## Project Structure
-lung-cancer-cnn/
+ 
+ lung-cancer-cnn/
 │
+
 ├── notebooks/
+
 │   └── lung_cancer_training.ipynb
 │
+
 ├── models/
+
 │   └── lung_cancer_cnn.h5
 │
+
 ├── data/
-│   └── Lung Cancer Detection Dataset
+
+│   └── Lung Cancer Detection Dataset/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
- 
 
  
 ## Results
